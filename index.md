@@ -54,6 +54,10 @@ Welcome to your Map of Content (MOC) for Amazon Web Services. This is the entry 
 - [[AWS Transfer Family]]
 - [[Amazon CloudFront]]
 - [[AWS Global Accelerator]]
+- [[Amazon SQS]]
+- [[Amazon SNS]]
+- [[Amazon Kinesis]]
+- [[Amazon MQ]]
 
 ## 🏗️ Architectures
 *Design patterns and Well-Architected Framework principles.*
