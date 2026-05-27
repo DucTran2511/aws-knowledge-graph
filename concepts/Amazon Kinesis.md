@@ -19,17 +19,18 @@ date: 2026-05-25
   ┌───────────────────────────────────────────────────────────────────┐
   │                       Amazon Kinesis Family                       │
   │                                                                   │
-  │  ┌─────────────────────┐   ┌─────────────────────────────────┐   │
-  │  │  Kinesis Data       │   │  Kinesis Data Firehose          │   │
-  │  │  Streams            │   │  (Delivery → S3/Redshift/etc.)  │   │
-  │  │  (Real-time ingest) │   │  (Near-real-time, fully managed)│   │
-  │  └─────────────────────┘   └─────────────────────────────────┘   │
+  │  ┌─────────────────────┐   ┌─────────────────────────────────┐    │
+  │  │  Kinesis Data       │   │  Kinesis Data Firehose          │    │
+  │  │  Streams            │   │  (Delivery → S3/Redshift/etc.)  │    │
+  │  │  (Real-time ingest) │   │  (Near-real-time, fully managed)│    │
+  │  └─────────────────────┘   └─────────────────────────────────┘    │
   │                                                                   │
-  │  ┌─────────────────────┐   ┌─────────────────────────────────┐   │
-  │  │  Kinesis Data       │   │  Kinesis Video Streams          │   │
-  │  │  Analytics          │   │  (Video ingestion & processing) │   │
-  │  │  (SQL on streams)   │   │                                 │   │
-  │  └─────────────────────┘   └─────────────────────────────────┘   │
+  │  ┌─────────────────────┐   ┌─────────────────────────────────┐    │
+  │  │  Kinesis Data       │   │  Kinesis Video Streams          │    │
+  │  │  Analytics          │   │  (Video ingestion & processing) │    │
+  │  │  (SQL on streams)   │   │                                 │    │
+  │  └─────────────────────┘   └─────────────────────────────────┘    │
+  |                                                                   |
   └───────────────────────────────────────────────────────────────────┘
 ```
 
