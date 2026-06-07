@@ -58,6 +58,18 @@ Welcome to your Map of Content (MOC) for Amazon Web Services. This is the entry 
 - [[Amazon SNS]]
 - [[Amazon Kinesis]]
 - [[Amazon MQ]]
+- [[Containers on AWS]]
+- [[Docker]]
+- [[Serverless on AWS]]
+- [[AWS Lambda]]
+- [[Amazon DynamoDB]]
+- [[Amazon API Gateway]]
+- [[AWS Step Functions]]
+- [[Amazon Cognito]]
+- [[Amazon CloudWatch]]
+- [[AWS CloudTrail]]
+- [[AWS Config]]
+- [[Amazon EventBridge]]
 
 ## 🏗️ Architectures
 *Design patterns and Well-Architected Framework principles.*
