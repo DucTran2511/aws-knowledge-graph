@@ -70,6 +70,8 @@ Welcome to your Map of Content (MOC) for Amazon Web Services. This is the entry 
 - [[AWS CloudTrail]]
 - [[AWS Config]]
 - [[Amazon EventBridge]]
+- [[AWS IAM Advanced]]
+- [[AWS Organizations]]
 
 ## 🏗️ Architectures
 *Design patterns and Well-Architected Framework principles.*
